@@ -1,0 +1,35 @@
+a{text-decoration-line:none}
+
+a:hover{
+	color: red;
+}
+
+ul { align :center;
+	list-style-type: none;
+	margin: 20px 50px 20px 300px;
+	background-color: #564573;
+	height:50px;
+	width:680px;
+	}
+
+ul li{float: left;}
+
+ul li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 16px 16px;
+	text-decoration: none;
+	}
+
+ul li a:hover {
+	color: white;
+  	background-color: Gray;
+}
+
+table{width :620px;}
+
+#log{
+	font-family:"Blackadder ITC","Harlow Solid Italic";
+	text-decoration-line:none;
+}
